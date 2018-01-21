@@ -7,3 +7,4 @@ To build a new image from source and run
 ```
 
 The image can also be found at:
+https://cloud.docker.com/swarm/divserge/repository/docker/divserge/parser_image/general
